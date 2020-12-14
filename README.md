@@ -7,13 +7,13 @@ The goal of this project is to predict a rating for a given Comment in between 1
 The dataset is availabe at https://www.kaggle.com/jvanelteren/boardgamegeek-reviews/metadata. This dataset contains more than 15M reviews about the game.
 
 <b> Requirements </b>
--Pandas
--Numpy
--Scikit
--sklearn
--nltk
--matplotlib
--joblib
+-Pandas<br>
+-Numpy<br>
+-Scikit<br>
+-sklearn<br>
+-nltk<br>
+-matplotlib<br>
+-joblib<br>
 Note: I have used python 3.7.9
 
 Deploy:
