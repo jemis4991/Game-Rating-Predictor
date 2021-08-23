@@ -1,4 +1,4 @@
-# Data-Mining-Term-Project
+# Game Rating Predictor
 
 <b> Greek Board Game Review Predictor </b>
 
